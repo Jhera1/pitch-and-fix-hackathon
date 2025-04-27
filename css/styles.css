@@ -9,6 +9,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   color: #333;
+  background-color: yellow;
 }
 
 /* Typography */
@@ -80,7 +81,7 @@ header {
   list-style: none;
 }
 
-#nav-item {
+.nav-item {
   margin-left: 1.5rem;
 }
 
